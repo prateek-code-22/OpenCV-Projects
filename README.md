@@ -1,2 +1,3 @@
 # OpenCV-Projects
-Projects based on detection of real life objects.
+## Face recognition
+## Vehicle detection
