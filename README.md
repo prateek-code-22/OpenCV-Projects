@@ -1,4 +1,4 @@
 # OpenCV-Projects
 
-### 1. Face recognition
+### 1. Face Detection
 ### 2. Vehicle detection
