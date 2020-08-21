@@ -1,4 +1,5 @@
 # OpenCV-Projects
 
-### 1. Face Detection
-### 2. Vehicle detection
+### 1. Car detection
+### 2. Helicopter detection
+### 3. Image filters
