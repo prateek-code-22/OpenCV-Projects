@@ -1,6 +1,7 @@
-# OpenCV-Projects
-
-### 1. Car detection
-### 2. Helicopter detection
-### 3. Image filters
-### 4. Face detection
+# OPENCV PROJECTS:
+### Project list:
+1. Face detection 
+2. Image filters
+3. Image Cartoonization 
+4. Vehicle detection
+5. Reading and scanning QR code
