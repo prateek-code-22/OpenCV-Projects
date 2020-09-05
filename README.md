@@ -1,5 +1,4 @@
-# OPENCV PROJECTS:
-### Project list:
+# Project list:
 1. Face detection 
 2. Image filters
 3. Image Cartoonization 
